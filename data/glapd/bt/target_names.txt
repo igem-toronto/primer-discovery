@@ -1,0 +1,3 @@
+>MG269953.1 Bretziella fagacearum strain C927 beta-tubulin gene, partial cds
+>FJ411371.1 Ceratocystis fagacearum culture CMW:2658 beta-tubulin 1 gene, partial cds
+>FJ411370.1 Ceratocystis fagacearum culture CMW:2039 beta-tubulin 1 gene, partial cds

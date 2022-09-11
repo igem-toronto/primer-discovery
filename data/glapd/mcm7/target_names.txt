@@ -1,0 +1,2 @@
+>MG270170.1 Bretziella fagacearum strain C927 DNA replication licensing factor (MCM7) gene, partial cds
+>KM495430.1 Ceratocystis fagacearum strain CMW2656 DNA replication licensing factor (MCM7) gene, partial cds

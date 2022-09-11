@@ -1,0 +1,11 @@
+>HM569640.2 Ceratocystis fagacearum strain C1517 translation elongation factor 1-alpha (TEF) gene, partial cds
+>KU042043.1 Bretziella fagacearum strain CBS 138363 elongation factor 1 alpha (TEF) gene, partial cds
+>KT318389.1 Bretziella fagacearum eukaryotic translation elongation factor 1 alpha (TEF1) gene, partial cds
+>KC583312.1 Ceratocystis fagacearum isolate CMW 2039 translation elongation factor 1 alpha gene, partial cds
+>KC583308.1 Ceratocystis fagacearum isolate C465 translation elongation factor 1 alpha gene, partial cds
+>KC583307.1 Ceratocystis fagacearum isolate C460 translation elongation factor 1 alpha gene, partial cds
+>KC583311.1 Ceratocystis fagacearum isolate C660 translation elongation factor 1 alpha gene, partial cds
+>KC583310.1 Ceratocystis fagacearum isolate C520 translation elongation factor 1 alpha gene, partial cds
+>KC583309.1 Ceratocystis fagacearum isolate C505 translation elongation factor 1 alpha gene, partial cds
+>FJ411318.1 Ceratocystis fagacearum culture CMW:2039 transcription elongation factor 1 alpha gene, partial cds
+>FJ411319.1 Ceratocystis fagacearum culture CMW:2658 transcription elongation factor 1 alpha gene, partial cds

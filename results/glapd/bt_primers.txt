@@ -1,0 +1,10 @@
+The 1 LAMP primers:
+  F3: pos:64,length:19 bp, primer(5'-3'):AGATGTTTGACCCCAAGAA
+  F2: pos:83,length:18 bp, primer(5'-3'):CATGATGGCTGCTTCTGA
+  F1c: pos:132,length:24 bp, primer(5'-3'):GGAGATGTAAACTCACAAGATGGC
+  B1c: pos:159,length:25 bp, primer(5'-3'):TCTCAATCTTTGTCTGTCCATTTGA
+  B2: pos:204,length:24 bp, primer(5'-3'):GCTATTTGGTGAATAATGGTTAGT
+  B3: pos:240,length:18 bp, primer(5'-3'):CTCAACCTCCTTCATGGC
+  LF: pos:111,length:20 bp, primer(5'-3'):GAGCAAGTCAGGTAGCGACC
+  LB: NULL
+  This set of LAMP primers could be used in 3 genomes, there are: MG269953.1, FJ411371.1, FJ411370.1

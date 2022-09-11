@@ -1,0 +1,2 @@
+>MG953416.1 Bretziella fagacearum strain C927 60S ribosomal protein L10a gene, partial cds
+>KM495518.1 Ceratocystis fagacearum strain CMW2656 60S ribosomal protein L10a (rpl1) gene, partial cds
