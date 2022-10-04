@@ -1,0 +1,5 @@
+Score for primer set, ID4, is: 66%
+Score for primer set, ID6, is: 68%
+Score for primer set, ID1, is: 66%
+Score for primer set, ID10, is: 64%
+Score for primer set, ID12, is: 70%
